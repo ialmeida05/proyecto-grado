@@ -1,16 +1,23 @@
-# React + Vite
+# Sistema de Monitoreo Ambiental Escolar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Integrantes del Equipo
+* Estudiante: Ignacio Almeida
+* Estudiante: Juan Ortega
 
-Currently, two official plugins are available:
+## Descripción General
+Chatbot que ayuda a la comprensión y agilización de las normas de convivencia
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Problema Identificado
+Crear el chatbot ya que este se tiene que usar con un modelo RNG.
 
-## React Compiler
+## Objetivo General
+Informar a la audiencia expecifica que se eleborando un metodo más efectivo para la comprensión de las normas de convivencia.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tecnologías Utilizadas
+* React.js
+* Vite
+* HTML5 y CSS3
+* Git y GitHub
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Estado del Proyecto
+Fase 1: Estructuración de la plataforma web y publicación de repositorios base.
